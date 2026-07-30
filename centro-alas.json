@@ -1,0 +1,38 @@
+{
+  "updatedAt": "2026-07-30T14:39:09.037Z",
+  "place": "Centro Alas – Centro de Psicología de Mª Noel Bleuer",
+  "rating": 5,
+  "userRatingCount": 19,
+  "reviews": [
+    {
+      "author": "La Flaca",
+      "profilePhoto": "https://lh3.googleusercontent.com/a-/ALV-UjVSmCGs5t7CUO0EO9gD1sMPzX7H1Vna4p6K488eDk2DToYbxp_Xng=s128-c0x00000000-cc-rp-mo",
+      "profileUrl": "https://www.google.com/maps/contrib/108247895430214307133/reviews",
+      "rating": 5,
+      "publishedAt": "2026-07-02T13:26:38.026243413Z",
+      "relativeTime": "4 weeks ago",
+      "text": "Me atendi con Noel, es increíblemente buena, fue mi primera experiencia y la verdad que supero mi expectativa!\nDefinitivamente recomiendo a ella y al lugar!",
+      "language": "es"
+    },
+    {
+      "author": "franco.ale. garay",
+      "profilePhoto": "https://lh3.googleusercontent.com/a/ACg8ocIWAxVD_KJZh-vBaq3lKGDZhrJgZ4bU3UHsmawRzopKmkkVCQ=s128-c0x00000000-cc-rp-mo",
+      "profileUrl": "https://www.google.com/maps/contrib/114641465302643359302/reviews",
+      "rating": 5,
+      "publishedAt": "2026-07-02T14:58:33.572126875Z",
+      "relativeTime": "3 weeks ago",
+      "text": "Fue una experiencia reconfortante, sanadora, me ayudó mucho con problemas de mi pasado y a construir un futuro, me brindo mas herramientas de las que creí tener, tuve la oportunidad de recibir terapia de la Lic. Noel, una calides y comodidad que no había tenido con otros profesionales, siempre agradezco su predisposición y seguimiento",
+      "language": "es"
+    },
+    {
+      "author": "valentina manrique",
+      "profilePhoto": "https://lh3.googleusercontent.com/a-/ALV-UjVHLICzDNPA_T0YgtbfxbHrCboDY502W7fT5Lp-nq6HyQGt4RGsUg=s128-c0x00000000-cc-rp-mo",
+      "profileUrl": "https://www.google.com/maps/contrib/115690534698509649829/reviews",
+      "rating": 5,
+      "publishedAt": "2026-07-02T18:01:41.244412139Z",
+      "relativeTime": "3 weeks ago",
+      "text": "Totalmente recomendada Noel, excelente profesional. A mi me ayudó muchísimo!",
+      "language": "es"
+    }
+  ]
+}
