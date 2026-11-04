@@ -1,19 +1,9 @@
 {
-  "updatedAt": "2026-11-03T11:35:55.886Z",
+  "updatedAt": "2026-11-04T11:50:23.524Z",
   "place": "Centro Alas – Centro de Psicología de Mª Noel Bleuer",
   "rating": 5,
   "userRatingCount": 19,
   "reviews": [
-    {
-      "author": "SOFÍA ELENA VÁZQUEZ CORTIZO",
-      "profilePhoto": "https://lh3.googleusercontent.com/a/ACg8ocLvnfDY4qaaxgFhXBAqcMunLpljx2nJepjMvVR9pECOa1mFZwE=s128-c0x00000000-cc-rp-mo",
-      "profileUrl": "https://www.google.com/maps/contrib/109275521425110463177/reviews",
-      "rating": 5,
-      "publishedAt": "2026-07-02T12:09:45.801907418Z",
-      "relativeTime": "4 months ago",
-      "text": "Excelente atención!! Desde el primer día me sentí muy cómoda y escuchada. Es una profesional muy amable, empática y respetuosa, que genera un espacio de confianza donde realmente uno se siente acompañado. Muy recomendable.",
-      "language": "es"
-    },
     {
       "author": "Mariángeles Aguirre",
       "profilePhoto": "https://lh3.googleusercontent.com/a-/ALV-UjXOlKUrFkTpVuMLYvzAT_hfbPqtWEyrqyUkgv52sIrwmvtwNdgz=s128-c0x00000000-cc-rp-mo",
@@ -22,6 +12,16 @@
       "publishedAt": "2026-07-02T15:38:52.462820847Z",
       "relativeTime": "4 months ago",
       "text": "Me atendi con Noel, excelente profesional, absolutamente recomendable, me ayudó a comprender la importancia de la aceptación, entre otras cosas, en sus sesiones sentí mucha contención. Totalmente agradecida 🙂",
+      "language": "es"
+    },
+    {
+      "author": "SOFÍA ELENA VÁZQUEZ CORTIZO",
+      "profilePhoto": "https://lh3.googleusercontent.com/a/ACg8ocLvnfDY4qaaxgFhXBAqcMunLpljx2nJepjMvVR9pECOa1mFZwE=s128-c0x00000000-cc-rp-mo",
+      "profileUrl": "https://www.google.com/maps/contrib/109275521425110463177/reviews",
+      "rating": 5,
+      "publishedAt": "2026-07-02T12:09:45.801907418Z",
+      "relativeTime": "4 months ago",
+      "text": "Excelente atención!! Desde el primer día me sentí muy cómoda y escuchada. Es una profesional muy amable, empática y respetuosa, que genera un espacio de confianza donde realmente uno se siente acompañado. Muy recomendable.",
       "language": "es"
     },
     {
