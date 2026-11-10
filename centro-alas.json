@@ -1,19 +1,9 @@
 {
-  "updatedAt": "2026-11-09T12:30:14.691Z",
+  "updatedAt": "2026-11-10T12:03:58.633Z",
   "place": "Centro Alas – Centro de Psicología de Mª Noel Bleuer",
   "rating": 5,
   "userRatingCount": 19,
   "reviews": [
-    {
-      "author": "Mariángeles Aguirre",
-      "profilePhoto": "https://lh3.googleusercontent.com/a-/ALV-UjXOlKUrFkTpVuMLYvzAT_hfbPqtWEyrqyUkgv52sIrwmvtwNdgz=s128-c0x00000000-cc-rp-mo",
-      "profileUrl": "https://www.google.com/maps/contrib/105404813478881641621/reviews",
-      "rating": 5,
-      "publishedAt": "2026-07-02T15:38:52.462820847Z",
-      "relativeTime": "4 months ago",
-      "text": "Me atendi con Noel, excelente profesional, absolutamente recomendable, me ayudó a comprender la importancia de la aceptación, entre otras cosas, en sus sesiones sentí mucha contención. Totalmente agradecida 🙂",
-      "language": "es"
-    },
     {
       "author": "SOFÍA ELENA VÁZQUEZ CORTIZO",
       "profilePhoto": "https://lh3.googleusercontent.com/a/ACg8ocLvnfDY4qaaxgFhXBAqcMunLpljx2nJepjMvVR9pECOa1mFZwE=s128-c0x00000000-cc-rp-mo",
@@ -32,6 +22,16 @@
       "publishedAt": "2026-07-05T17:14:37.379537601Z",
       "relativeTime": "4 months ago",
       "text": "Empecé terapia cognitivo-conductual con Noel por recomendación de mi neuróloga, ya que tengo TDA y necesitaba herramientas para concentrarme mejor en mi día a día.\nDurante estos años me acompañó con muchísima dedicación, ayudándome a construir herramientas concretas para manejar situaciones que antes me generaban mucho estrés y no sabía cómo enfrentar. Gracias a su trabajo y profesionalismo, hoy soy una persona mucho más segura, con recursos reales para afrontar lo que la vida me presente.\nLa recomiendo totalmente y le agradezco de corazón por todo el acompañamiento durante estos años 🥹",
+      "language": "es"
+    },
+    {
+      "author": "Mariángeles Aguirre",
+      "profilePhoto": "https://lh3.googleusercontent.com/a-/ALV-UjXOlKUrFkTpVuMLYvzAT_hfbPqtWEyrqyUkgv52sIrwmvtwNdgz=s128-c0x00000000-cc-rp-mo",
+      "profileUrl": "https://www.google.com/maps/contrib/105404813478881641621/reviews",
+      "rating": 5,
+      "publishedAt": "2026-07-02T15:38:52.462820847Z",
+      "relativeTime": "4 months ago",
+      "text": "Me atendi con Noel, excelente profesional, absolutamente recomendable, me ayudó a comprender la importancia de la aceptación, entre otras cosas, en sus sesiones sentí mucha contención. Totalmente agradecida 🙂",
       "language": "es"
     }
   ]
