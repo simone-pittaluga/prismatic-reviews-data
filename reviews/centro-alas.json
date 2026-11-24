@@ -1,0 +1,47 @@
+{
+  "updatedAt": "2026-11-24T14:02:05.534Z",
+  "clientId": "centro-alas",
+  "placeId": "ChIJFd-ioPSJcQ0R9EDdpz0RJWQ",
+  "place": "Centro Alas – Centro de Psicología de Mª Noel Bleuer",
+  "rating": 5,
+  "userRatingCount": 19,
+  "googleMapsUri": "https://maps.google.com/?cid=7216192934438060276&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "writeReviewUrl": "https://search.google.com/local/writereview?placeid=ChIJFd-ioPSJcQ0R9EDdpz0RJWQ",
+  "sortedBy": "relevance",
+  "source": "Google Maps",
+  "reviews": [
+    {
+      "author": "SOFÍA ELENA VÁZQUEZ CORTIZO",
+      "profilePhoto": "https://lh3.googleusercontent.com/a/ACg8ocLvnfDY4qaaxgFhXBAqcMunLpljx2nJepjMvVR9pECOa1mFZwE=s128-c0x00000000-cc-rp-mo",
+      "profileUrl": "https://www.google.com/maps/contrib/109275521425110463177/reviews",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwYU5IUXpUamRVVTNFemNHbEhjazAxVnpOSGMxRRAB!2m1!1s0xd7189f4a0a2df15:0x6425113da7dd40f4",
+      "rating": 5,
+      "publishedAt": "2026-07-02T12:09:45.801907418Z",
+      "relativeTime": "Hace 4 meses",
+      "text": "Excelente atención!! Desde el primer día me sentí muy cómoda y escuchada. Es una profesional muy amable, empática y respetuosa, que genera un espacio de confianza donde realmente uno se siente acompañado. Muy recomendable.",
+      "language": "es"
+    },
+    {
+      "author": "Mariángeles Aguirre",
+      "profilePhoto": "https://lh3.googleusercontent.com/a-/ALV-UjXOlKUrFkTpVuMLYvzAT_hfbPqtWEyrqyUkgv52sIrwmvtwNdgz=s128-c0x00000000-cc-rp-mo",
+      "profileUrl": "https://www.google.com/maps/contrib/105404813478881641621/reviews",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGR1ExZG1kelJ1V2psalRqVmpTVWs0ZW5STU5sRRAB!2m1!1s0xd7189f4a0a2df15:0x6425113da7dd40f4",
+      "rating": 5,
+      "publishedAt": "2026-07-02T15:38:52.462820847Z",
+      "relativeTime": "Hace 4 meses",
+      "text": "Me atendi con Noel, excelente profesional, absolutamente recomendable, me ayudó a comprender la importancia de la aceptación, entre otras cosas, en sus sesiones sentí mucha contención. Totalmente agradecida 🙂",
+      "language": "es"
+    },
+    {
+      "author": "franco.ale. garay",
+      "profilePhoto": "https://lh3.googleusercontent.com/a/ACg8ocIWAxVD_KJZh-vBaq3lKGDZhrJgZ4bU3UHsmawRzopKmkkVCQ=s128-c0x00000000-cc-rp-mo",
+      "profileUrl": "https://www.google.com/maps/contrib/114641465302643359302/reviews",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pKeFNWTlRURXhWZWpKd2R6RndkeTFpU1VoRVZHYxAB!2m1!1s0xd7189f4a0a2df15:0x6425113da7dd40f4",
+      "rating": 5,
+      "publishedAt": "2026-07-02T14:58:33.572126875Z",
+      "relativeTime": "Hace 4 meses",
+      "text": "Fue una experiencia reconfortante, sanadora, me ayudó mucho con problemas de mi pasado y a construir un futuro, me brindo mas herramientas de las que creí tener, tuve la oportunidad de recibir terapia de la Lic. Noel, una calides y comodidad que no había tenido con otros profesionales, siempre agradezco su predisposición y seguimiento",
+      "language": "es"
+    }
+  ]
+}
